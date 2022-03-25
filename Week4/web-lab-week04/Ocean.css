@@ -1,0 +1,44 @@
+body
+{
+    /* background-color: #273D42; */
+    background-image: url('background.gif'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 17px;
+    color: white;
+}
+
+.columnImg
+{
+ 	padding: 7px;
+}
+
+img
+{
+	padding: 15px;
+}
+
+video
+{
+	padding: 15px;
+}
+
+iframe
+{
+	padding: 15px;
+}
+
+a
+{
+	color: orange;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: white;
+	text-decoration: none;
+}

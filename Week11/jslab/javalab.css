@@ -1,0 +1,19 @@
+body
+{
+	font-family: georgia, arial, sans-serif;
+	background-color: white;
+	margin:0px;
+	text-align: center;
+	background-size: cover;
+}
+
+p
+{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+.background
+{
+
+}
